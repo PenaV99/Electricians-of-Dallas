@@ -135,16 +135,13 @@ header .intro-text .skills {
 /*    width: 200px;*/
 /*    border-radius: 99px*/
 /*}*/
-.logo {
+.header-logo {
     height: 45vh;
     width: 26vw;
     border-radius: 49px;
-/*    padding-bottom: -30px;*/
-/*    margin-bottom: -230px;*/
-    background: rgba(255, 255, 255,);
-    opacity: 0.6;
-
+    background:#fff;
 }
+
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
