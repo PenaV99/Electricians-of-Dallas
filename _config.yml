@@ -1,10 +1,10 @@
 # Site settings
-title: Electricians Of Dallas
-email: ElectriciansofDallas@gmail.com
+title: Electricians of Dallas, LLC
+email: emilysharpton@electriciansofdallas.net
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Licensed Electrician"
+description: "Electricians of Dallas is a family owned company that provides reliable services for both residential and commercial projects."
+keywords: "electrician, technician, Dallas, Carrollton, panel"
+skills: "Your Electricians For Life"
 meta_author: LastName FirstName
 
 # Google webmaster tools

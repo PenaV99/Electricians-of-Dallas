@@ -79,11 +79,16 @@ hr.star-primary:after {
 .img-centered {
     margin: 0 auto;
 }
-
+.img-responsive {
+/*    size: 3vh;*/
+/*    height: 20vh;*/
+/*    width: 20vh;*/
+}
 header {
     text-align: center;
-    color: #fff;
-    background: #{{ site.color.primary }};
+    /*    color: #fff;*/
+/*    background: #{{ site.color.primary }}*/
+    background: #fff
 }
 
 header .container {
@@ -124,6 +129,22 @@ header .intro-text .skills {
     }
 }
 
+/*    .headshot {*/
+/*    size: 50px;*!*/
+/*    height: 200px;*/
+/*    width: 200px;*/
+/*    border-radius: 99px*/
+/*}*/
+.logo {
+    height: 45vh;
+    width: 26vw;
+    border-radius: 49px;
+/*    padding-bottom: -30px;*/
+/*    margin-bottom: -230px;*/
+    background: rgba(255, 255, 255,);
+    opacity: 0.6;
+
+}
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
@@ -152,6 +173,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+/*    background: #fff*/
 }
 
 .navbar a:focus {
@@ -412,7 +434,10 @@ footer .footer-below {
 .scroll-top .btn:focus {
     outline: 0;
 }
-
+.phone-number {
+    color: red;
+    height: 43rem;
+}
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
@@ -481,4 +506,11 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+.van {
+    width: 90vw;
+    height: 90vh;
+    opacity: 0.75;
+    margin-top: -100px;
+    margin-left: -100px;
 }
