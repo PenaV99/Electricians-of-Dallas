@@ -6,7 +6,7 @@ description: "Electricians of Dallas is a family owned company that provides rel
 keywords: "electrician, technician, Dallas, Carrollton, panel"
 skills: <i>Your Electricians For Life!</i>
 meta_author: Peña Victor
-baseurl : /eoc_blog_test
+baseurl : https://github.com/PenaV99/Electricians-of-Dallas.git
 
 # Google webmaster tools
 google_verify:
