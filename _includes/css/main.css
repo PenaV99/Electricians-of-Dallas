@@ -86,9 +86,9 @@ hr.star-primary:after {
 }
 header {
     text-align: center;
-    /*    color: #fff;*/
+/*        color: #fff;*/
 /*    background: #{{ site.color.primary }}*/
-    background: #fff
+
 }
 
 header .container {
@@ -140,6 +140,7 @@ header .intro-text .skills {
     width: 26vw;
     border-radius: 49px;
     background:#fff;
+/*    display: block;*/
 }
 
 @media(min-width:768px) {
