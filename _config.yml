@@ -1,11 +1,12 @@
 # Site settings
 title: Electricians of Dallas, LLC
 email: emilysharpton@electriciansofdallas.net
-url: https://github.com/PenaV99/Electricians-of-Dallas.git
+url:
 description: "Electricians of Dallas is a family owned company that provides reliable services for both residential and commercial projects."
 keywords: "electrician, technician, Dallas, Carrollton, panel"
 skills: <i>Your Electricians For Life!</i>
 meta_author: Peña Victor
+baseurl : /eoc_blog_test
 
 # Google webmaster tools
 google_verify:
