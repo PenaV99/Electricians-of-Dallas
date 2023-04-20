@@ -1,7 +1,7 @@
 # Site settings
 title: Electricians of Dallas, LLC
 email: emilysharpton@electriciansofdallas.net
-url: /eoc_blog_test
+url:
 description: "Electricians of Dallas is a family owned company that provides reliable services for both residential and commercial projects."
 keywords: "electrician, technician, Dallas, Carrollton, panel"
 skills: <i>Your Electricians For Life!</i>
@@ -39,15 +39,15 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title:
-    url:
+  - title: yelp
+    url: https://www.yelp.com/biz/electricians-of-dallas-carrollton-3?osq=Electricians+of+Dallas%2C+LLC
   - title: facebook
+    url: https://www.facebook.com/people/Electricians-of-Dallas-LLC/100077930851213/
+  - title: google
+    url: https://g.co/kgs/Dga7s8
+  - title: youtube
     url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
+  - title: nextdoor
     url:
 
 # Postal address (add as many lines as necessary)
