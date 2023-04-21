@@ -4,8 +4,8 @@ modal-id: 6
 date: 2014-07-15
 img: landscape-1.png
 alt: image-alt
-project-date: April 2014
-client: Random
-category: Bleh
-description: HA
+project-date: 
+client: 
+category: 
+description: 
 ---

@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: bathtub.png
 alt: image-alt
-project-date: April 2014
-client: YML
-category: Jekyll
-description: Website
+project-date: 
+client: 
+category: 
+description: 
 ---

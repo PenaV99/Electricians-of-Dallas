@@ -4,8 +4,8 @@ modal-id: 3
 date: 2014-07-16
 img: bathroom2.png
 alt: image-alt
-project-date: April 2014
-client: EOD
-category: JIJi
+project-date: 
+client: 
+category: 
 description:
 ---

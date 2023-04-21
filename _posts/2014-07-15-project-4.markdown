@@ -4,8 +4,8 @@ modal-id: 4
 date: 2014-07-15
 img: kitchen2.png
 alt: image-alt
-project-date: April 2014
-client: MLD
-category: Fixtures
-description: Funny
+project-date: 
+client: 
+category: 
+description: 
 ---
