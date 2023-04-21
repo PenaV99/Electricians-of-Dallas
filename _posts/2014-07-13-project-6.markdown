@@ -7,5 +7,5 @@ alt: image-alt
 project-date:
 client:
 category:
-description: Coming Soon!
+description: 
 ---
