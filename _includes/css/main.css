@@ -129,7 +129,7 @@ header .intro-text .skills {
     }
 
 .header-logo {
-    height: 30rem;
+    height: 30vh;
 /*    width: 26vw;*/
     border-radius: 49px;
     background:#fff;
