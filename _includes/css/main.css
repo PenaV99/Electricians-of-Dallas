@@ -190,6 +190,10 @@ header .intro-text .skills {
 .navbar-inverse {
     border: 0;
 }
+.nav-logo {
+        height: 5px;
+        width: 5px;
+    }
 
 .number {
         color: #{{ site.color.primary }};
