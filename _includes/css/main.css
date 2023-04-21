@@ -127,16 +127,9 @@ header .intro-text .skills {
     header .intro-text .skills {
         font-size: 1.75em;
     }
-}
 
-/*    .headshot {*/
-/*    size: 50px;*!*/
-/*    height: 200px;*/
-/*    width: 200px;*/
-/*    border-radius: 99px*/
-/*}*/
 .header-logo {
-    height: 45vh;
+    height: 38vh;
     width: 26vw;
     border-radius: 49px;
     background:#fff;
