@@ -27,9 +27,9 @@ a.active {
 
 .about-img {
     display: block;
-    size: 10px;
-    height: 10px;
-    width: 15px;
+/*    size: 10px;*/
+    height: 1px;
+    width: 1px;
 }
 h1,
 h2,
@@ -135,7 +135,7 @@ header .intro-text .skills {
     }
 
 .header-logo {
-    height: 30vh;
+    height: 25rem;
 /*    width: 26vw;*/
     border-radius: 49px;
     background:#fff;
