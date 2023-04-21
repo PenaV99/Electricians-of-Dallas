@@ -27,7 +27,9 @@ a.active {
 
 .about-img {
     display: block;
-    size: 1rem;
+    size: 10px;
+    height: 10px;
+    width: 15px;
 }
 h1,
 h2,
