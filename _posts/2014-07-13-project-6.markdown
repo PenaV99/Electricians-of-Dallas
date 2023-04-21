@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: 
+img: landscape-1.png
 alt: image-alt
-project-date:
-client:
-category:
-description: 
+project-date: 2014-07-15
+client: Random
+category: Bleh
+description: HA
 ---

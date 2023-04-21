@@ -191,8 +191,9 @@ header .intro-text .skills {
     border: 0;
 }
 .nav-logo {
-        height: 5px;
-        width: 5px;
+        height: 8rem;
+        width: 7rem;
+        display: inline;
     }
 
 .number {
