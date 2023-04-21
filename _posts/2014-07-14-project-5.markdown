@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 5
-date: 
+date: 2014-07-14
 img: bathroom.png
 alt: image-alt
-project-date:
+project-date: 
 client:
 category:
 description:
