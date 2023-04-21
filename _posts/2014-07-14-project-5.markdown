@@ -4,7 +4,7 @@ modal-id: 5
 date: 2014-07-14
 img: bathroom.png
 alt: image-alt
-project-date: 2014-07-14
+project-date: April 2014
 client: HEB
 category: LIGHTING
 description: HEHE
