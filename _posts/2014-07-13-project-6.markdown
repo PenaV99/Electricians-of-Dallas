@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: gallerylightings.png
+img: gallerylightings.jpg
 alt: image-alt
 project-date:
 client:
