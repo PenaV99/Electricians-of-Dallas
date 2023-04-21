@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: bathtub2.png
+img: gallerylightings.png
 alt: image-alt
 project-date:
 client:

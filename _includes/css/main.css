@@ -191,6 +191,9 @@ header .intro-text .skills {
     border: 0;
 }
 
+.number {
+        color: #{{ site.color.primary }};
+        font-size: 2rem;
 section {
     padding: 100px 0;
 }
