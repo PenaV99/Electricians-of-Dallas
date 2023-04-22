@@ -77,19 +77,25 @@ background-color: #fff;
 header {
     text-align: center;
     color: #{{site.color.secondary}};
-    /*background: #{{ site.color.primary }};*/
-    background: #fff;
+    /*background: red;*/
+    height: 100vh;
+    box-sizing: border-box;
+    background-image: url("img/van.png");
+    background-size: cover;
+    opacity: 0.9;
 }
 
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
+
 }
 
-header img {
-    display: block;
-    margin: 0 auto 20px;
-}
+/*header img {*/
+/*    display: block;*/
+/*    margin: 0 auto 20px;*/
+/*    max-height: 20px;*/
+/*}*/
 
 header .intro-text .name {
     display: block;
@@ -97,6 +103,8 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
+    /*color: #fff*/
+    color: #{{ site.color.primary }}
 }
 
 header .intro-text .skills {
@@ -166,6 +174,11 @@ header .intro-text .skills {
     border: 0;
 }
 
+.nav-logo {
+    height: 8rem;
+    width: 7rem;
+    display: inline;
+}
 section {
     padding: 100px 0;
 }
