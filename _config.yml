@@ -33,7 +33,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: 
+  copyright: Electricians of Dallas, LLC
   location:
   social:
   credits:
@@ -49,7 +49,7 @@ social:
   - title: youtube
     url:
   - title: nextdoor
-    url:
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
