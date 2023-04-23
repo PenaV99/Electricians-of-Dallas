@@ -95,7 +95,7 @@ header {
     background-image: url("img/van.png");
     background-size: cover;
     opacity: 0.9;
-    background-position: center top;
+    background-position: right top;
     /*width: 100%;*/
     z-index: 20;
 }
