@@ -38,6 +38,11 @@ h6 {
 }
 
 
+.blog-link {
+    font-size: 1em;
+}
+
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -85,18 +90,20 @@ background-color: #fff;
 header {
     text-align: center;
     color: #{{site.color.secondary}};
-    /*background: red;*/
     height: 100vh;
     box-sizing: border-box;
     background-image: url("img/van.png");
     background-size: cover;
     opacity: 0.9;
     background-position: center top;
+    /*width: 100%;*/
+    z-index: 20;
 }
 
 header .container {
     padding-top: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
+    /*margin-bottom: 100px;*/
 
 }
 
@@ -199,7 +206,8 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.secondary }};
+    background: #{{ site.color.primary }};
+    font-size: 3em;
 }
 
 @media(max-width:767px) {
