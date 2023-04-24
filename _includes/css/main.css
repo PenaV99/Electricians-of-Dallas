@@ -30,7 +30,18 @@ h6 {
     font-weight: 700;
 }
 
+.about-van{
+    size: 30px;
+    height: 400px;
+    width: 600px;
+    display: inline-block;
+    text-align: right;
+    background-position: center;
+    background-size: cover;
+    box-sizing: border-box;
+    margin-top: 50px;
 
+}
 .about-logo {
     height: 5rem;
     width: 5rem;
