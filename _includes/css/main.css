@@ -102,10 +102,10 @@ background-color: #fff;
 header {
     text-align: center;
     color: #{{site.color.secondary}};
-    height: 100vh;
+    height: 90vh;
 /*    width: 80vw;*/
     box-sizing: border-box;
-    background-image: url("img/van.png");
+/*    background-image: url("img/van.png");*/
     background-size: cover;
     opacity: 0.9;
     background-position: center;
@@ -114,7 +114,7 @@ header {
 }
 
 header img {
-    margin-top: 50px;
+    margin-top: 10px;
 
 }
 
@@ -125,14 +125,14 @@ header .container {
 
 }
 .header-logo {
-    background-color: #FFF;
+    background-color: #fff;
     box-sizing: border-box;
-    display: block;
-    height: 10vh;
+    display: inline-block;
+    height: 30vh;
     padding-top: 10px;
-    position: absolute;
+/*    position: absolute;*/
     text-align: center;
-    width: 10vh;
+    width: vh;
 }
 
 /*header img {*/

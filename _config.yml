@@ -1,10 +1,13 @@
 # Site settings
 title: Electricians of Dallas, LLC
 email: emilysharpton@electriciansofdallas.net
-url:
+url: 
 description: "Electricians of Dallas is a family owned company that provides reliable services for both residential and commercial projects."
 keywords: "electrician, technician, Dallas, Carrollton, panel"
-skills: <i>Your Electricians For Life!</i>
+skills: "<p>Electricians of  Dallas is a family owned and operated electrical contracting company servicing both residential and commercial customers since 2003.</p>
+<p>We have over 30 years experience in the electrical field.
+We pride ourselves in our top notch customer service.
+We listen to the requests and concerns people have for their electrical needs and we offer our full attention and detail to give our honest solutions.</p>"
 meta_author: Peña Victor
 baseurl : /eoc_blog_test
 
