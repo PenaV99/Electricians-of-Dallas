@@ -103,13 +103,19 @@ header {
     text-align: center;
     color: #{{site.color.secondary}};
     height: 100vh;
+/*    width: 80vw;*/
     box-sizing: border-box;
-    background-image: url("img/shutterstock_103755371-2.jpg");
+    background-image: url("img/van.png");
     background-size: cover;
     opacity: 0.9;
     background-position: center;
     /*width: 100%;*/
     z-index: 20;
+}
+
+header img {
+    margin-top: 50px;
+
 }
 
 header .container {
@@ -142,7 +148,7 @@ header .intro-text .name {
     font-size: 2em;
     font-weight: 700;
     /*color: #fff*/
-    color: #{{ site.color.primary }}
+    color: #{{ site: .color .primary }}
 }
 
 header .intro-text .skills {
@@ -210,13 +216,17 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
-    background: black;
+/*    background: #{{ site.color.primary }};*/
+ background: #000;
 }
 
 .nav-logo {
     height: 5rem;
     width: 5rem;
     display: inline;
+}
+.nav-number {
+    font-size: 1.7em;
 }
 section {
     padding: 100px 0;
@@ -229,8 +239,8 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
-    font-size: 3em;
+    background: #{{ site.color.primary}} ;
+    font-size: 1em;
 }
 
 @media(max-width:767px) {
@@ -414,7 +424,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 footer .footer-col {
@@ -423,7 +433,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 .btn-social {
