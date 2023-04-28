@@ -230,6 +230,7 @@ header .intro-text .skills {
 }
 section {
     padding: 100px 0;
+    margin-top: 50px;
 }
 
 section h2 {
@@ -241,6 +242,7 @@ section.success {
     color: #fff;
     background: #{{ site.color.primary}} ;
     font-size: 1em;
+    margin-top: 110px;
 }
 
 @media(max-width:767px) {
