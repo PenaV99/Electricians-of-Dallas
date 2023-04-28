@@ -104,7 +104,7 @@ header {
     color: #{{site.color.secondary}};
     height: 90vh;
 /*    width: 80vw;*/
-    box-sizing: border-box;
+/*    box-sizing: border-box;*/
 /*    background-image: url("img/van.png");*/
     background-size: cover;
     opacity: 0.9;
