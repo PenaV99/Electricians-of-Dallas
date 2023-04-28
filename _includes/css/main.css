@@ -104,12 +104,13 @@ header {
     color: #{{site.color.secondary}};
     height: 90vh;
 /*    width: 80vw;*/
-/*    box-sizing: border-box;*/
+    box-sizing: border-box;
 /*    background-image: url("img/van.png");*/
     background-size: cover;
     opacity: 0.9;
-    background-position: center;
-    /*width: 100%;*/
+    background: position: center;
+    background-color: #F0F8FF;
+/*    width: 100%;*/
     z-index: 20;
     max-height: 100vh;
 }
@@ -123,23 +124,16 @@ header .container {
     padding-top: 100px;
     padding-bottom: 100px;
     margin-bottom: 100px;
+    background: #F0F8FF;
 
 }
 .header-logo {
-    background-color: #fff;
     box-sizing: border-box;
     display: inline-block;
     height: 30vh;
     padding-top: 10px;
     text-align: center;
-    width: vh;
 }
-
-/*header img {*/
-/*    display: block;*/
-/*    margin: 0 auto 20px;*/
-/*    max-height: 20px;*/
-/*}*/
 
 header .intro-text .name {
     display: block;
@@ -147,7 +141,7 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
-    /*color: #fff*/
+    color: red;
     color: #{{ site: .color .primary }}
 }
 
@@ -239,7 +233,7 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
+    color: #F0F8FF;
     background: #{{ site.color.primary}} ;
     font-size: 1em;
     margin-top: 110px;
