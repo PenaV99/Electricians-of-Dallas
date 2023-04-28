@@ -111,6 +111,7 @@ header {
     background-position: center;
     /*width: 100%;*/
     z-index: 20;
+    max-height: 100vh;
 }
 
 header img {
@@ -130,7 +131,6 @@ header .container {
     display: inline-block;
     height: 30vh;
     padding-top: 10px;
-/*    position: absolute;*/
     text-align: center;
     width: vh;
 }
