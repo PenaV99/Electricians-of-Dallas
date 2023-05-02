@@ -247,9 +247,9 @@ section h2 {
 
 section.success {
     color: #F0F8FF;
-/*    background: #{{ site.color.primary}};*/
+    background: #{{ site.color.primary}};
     font-size: 1em;
-    background: #3CB3D6;
+/*    background: #3CB3D6;*/
     margin-top: 50px;
 }
 
