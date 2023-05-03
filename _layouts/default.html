@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R7LW1JX198"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-R7LW1JX198');
+</script>
 <body id="page-top" class="index">
   {% include nav.html %}
   {% include header.html %}
   {% include about.html %}
   {% include portfolio_grid.html %}
-
-
-
   {% include footer.html %}
   {% include modals.html %}
   {% include js.html %}
